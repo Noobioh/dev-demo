@@ -20,9 +20,9 @@ Dit voorbeeld thema heeft de volgende benodigdheden:
 2. Installeer het thema in jouw (lokale) WordPress (WP) installatie in "/wp-content/themes/" (drag n drop)
 3. Activeer het thema via de WP-Admin omgeving
 4. Open het thema in jouw code editor (VS Code o.i.d.)
-5. Voer via de terminal het volgende commando uit: "npm install"
+5. Voer via de terminal het volgende commando uit: "`npm install`"
 6. In het bestand "wpgulp.config.js" verander 'const ProjectURL' naar de URL van jouw lokale WP installatie
-7. Voer via de terminal het volgende commando uit: "npm start"
+7. Voer via de terminal het volgende commando uit: "`npm start`"
 8. Nu zal je zien in de terminal dat WP Gulp je styles en je JS aan t "watchen" is. 
 
 
