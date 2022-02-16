@@ -18,7 +18,13 @@ get_header();
 
 <main id="primary" class="site-main">
 
-<!--
+<section class="header-image">
+	<div class="container">
+		<img src="<?= get_template_directory_uri() . '/resources/assets/images/header-img.jpg?' ?>" alt="">
+	</div>
+</section>
+
+	<!--
 	<section class="site-header">
 		<div class="site-header__main">
 			<h1><?php the_field('header_text'); ?></h1>
