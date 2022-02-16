@@ -18,6 +18,7 @@ get_header();
 
 <main id="primary" class="site-main">
 
+<!--
 	<section class="site-header">
 		<div class="site-header__main">
 			<h1><?php the_field('header_text'); ?></h1>
@@ -65,6 +66,8 @@ get_header();
 			</div>
 		</div>
 	</section>
+
+-->
 
 	<section class="actueel">
 		<div class="container">

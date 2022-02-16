@@ -1,3 +1,9 @@
+
+.menu {
+	display:table-cell; 
+	vertical-align:middle
+}
+
 .section {
 	border: 2px solid red;
 	&__item {
@@ -6,6 +12,7 @@
 }
 
 .site-header {
+	padding: 50px;
 	&__main {
 		h1 {
 			font-size: 3.75rem;

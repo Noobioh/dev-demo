@@ -29,4 +29,27 @@
 
 		<header id="masthead" class="site-header">
 
+			<div class="container">
+				<div class="row">
+					<div class="col-lg-6">
+
+						<div class="icon-img">
+							<img src="<?= get_template_directory_uri() . '/resources/assets/images/logo-clr.svg?' ?>"
+								alt="">
+						</div>
+					</div>
+
+					<div class="col-lg-6">
+
+						<ul>
+							<li class="menu"><a class="link-header">DIENSTEN</a></li>
+							<li class="menu"><a class="link-header">CASE STUDIES</a></li>
+							<li class="menu"><a class="link-header">MARKTEN</a></li>
+							<li class="menu"><a class="link-header">OVER RBK</a></li>
+							<li class="menu"><a class="link-header">CONTACT</a></li>
+						</ul>
+
+					</div>
+				</div>
+			</div>
 		</header><!-- #masthead -->

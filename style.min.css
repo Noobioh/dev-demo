@@ -276,6 +276,7 @@ progress{vertical-align:baseline}
 .ps-3{padding-left:1rem !important}
 .ps-4{padding-left:1.5rem !important}
 .ps-5{padding-left:3rem !important}
+.menu{display:inline-block;vertical-align:middle}
 .section{border:2px solid red}
 .section__item{border:2px solid blue}
 .site-header__main h1{font-size:3.75rem}
