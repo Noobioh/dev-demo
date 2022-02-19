@@ -20,7 +20,7 @@ get_header();
 
 <section class="header-image">
 	<div class="container">
-		<img src="<?= get_template_directory_uri() . '/resources/assets/images/header-img.jpg?' ?>" alt="">
+		<img class="header-image-style" src="<?= get_template_directory_uri() . '/resources/assets/images/header-img.jpg?', 'full' ?>" alt="">
 	</div>
 </section>
 
